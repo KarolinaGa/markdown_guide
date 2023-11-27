@@ -48,9 +48,6 @@ Block of code
 |Italic| *Italic* | 
 |Strikethrough| ~~Strikethrough~~ | 
 
-##### 8. Highlight
-
- <mark>Super important</mark>
 
  
 
