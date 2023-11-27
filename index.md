@@ -1,4 +1,17 @@
-#  Markdown guide<!-- omit in toc -->
+#  Markdown guide   <!-- omit in toc -->
+
+
+- [What is Markdown?](#what-is-markdown)
+- [Task list](#task-list)
+- [Elements](#elements)
+  - [**Bold**](#bold)
+  - [*Italic*](#italic)
+  - [~~Strikethrough~~](#strikethrough)
+  - [`Code`](#code)
+  - [Block of code](#block-of-code)
+  - [Lucynka](#lucynka)
+  - [Table](#table)
+
 
 [Markdown guide link](https://www.markdownguide.org)
 
@@ -6,7 +19,7 @@
 >What is **Markdown**? 
 >>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-### Task list
+## Task list
 
 - [x] Heading
 - [x] Blockquotes
@@ -23,24 +36,24 @@
 - [x] Table
 
   
-#### Elements
-##### 1. **Bold** 
+## Elements
+### **Bold** 
 
-##### 2. *Italic*
+### *Italic*
 
-##### 3. ~~Strikethrough~~
+### ~~Strikethrough~~
 
-##### 4. `Code`
+### `Code`
 
-##### 5.  Block of code
+### Block of code
 ```
 Block of code 
 ```
-##### 6. Lucynka
+### Lucynka
    
    ![Lucynka](Lucynka.jpeg)
 
-##### 7. Table
+### Table
    
 |Element|Markdown Syntax|
 |------------|-------------|
