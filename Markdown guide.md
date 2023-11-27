@@ -21,7 +21,7 @@
 - [x] Ordered List
 - [x] Unordered list
 - [x] Table
-- [x] Highlight
+
   
 #### Elements
 ##### 1. **Bold** 
