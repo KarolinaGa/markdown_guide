@@ -1,9 +1,8 @@
 #  Markdown guide   <!-- omit in toc -->
 
-
-- [What is Markdown?](#what-is-markdown)
-- [Task list](#task-list)
-- [Elements](#elements)
+- [1. What is Markdown?](#1-what-is-markdown)
+- [2. Task list](#2-task-list)
+- [3. Elements](#3-elements)
   - [**Bold**](#bold)
   - [*Italic*](#italic)
   - [~~Strikethrough~~](#strikethrough)
@@ -13,13 +12,14 @@
   - [Table](#table)
 
 
+
 [Markdown guide link](https://www.markdownguide.org)
 
-## What is Markdown?
+## 1. What is Markdown?
 >What is **Markdown**? 
 >>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-## Task list
+## 2. Task list
 
 - [x] Heading
 - [x] Blockquotes
@@ -36,7 +36,7 @@
 - [x] Table
 
   
-## Elements
+## 3. Elements
 ### **Bold** 
 
 ### *Italic*
