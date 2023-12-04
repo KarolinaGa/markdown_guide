@@ -1,15 +1,15 @@
 #  Markdown guide   <!-- omit in toc -->
 
-- [1. What is Markdown?](#1-what-is-markdown)
-- [2. Task list](#2-task-list)
-- [3. Elements](#3-elements)
-  - [**Bold**](#bold)
-  - [*Italic*](#italic)
-  - [~~Strikethrough~~](#strikethrough)
-  - [`Code`](#code)
-  - [Block of code](#block-of-code)
-  - [Lucynka](#lucynka)
-  - [Table](#table)
+1. [1. What is Markdown?](#1-what-is-markdown)
+2. [2. Task list](#2-task-list)
+3. [3. Elements](#3-elements)
+   1. [**Bold**](#bold)
+   2. [*Italic*](#italic)
+   3. [~~Strikethrough~~](#strikethrough)
+   4. [`Code`](#code)
+   5. [Block of code](#block-of-code)
+   6. [Lucynka](#lucynka)
+   7. [Table](#table)
 
 
 
